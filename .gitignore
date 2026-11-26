@@ -1,0 +1,8 @@
+﻿node_modules/
+dist/
+.env
+.env.*
+*.rar
+*.zip
+secrets.h
+.DS_Store
