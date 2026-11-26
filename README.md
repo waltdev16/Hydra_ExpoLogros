@@ -1,6 +1,6 @@
 # HYDRA
 
-**Rainwater Harvesting & Management System | IoT & Digital Twin**
+**🌧 Rainwater Harvesting & Management System | IoT & Digital Twin**
 
 An engineering project focused on automated rainwater harvesting, water monitoring, and resource management through Arduino-based control, IoT connectivity, and an interactive 3D digital twin.
 
